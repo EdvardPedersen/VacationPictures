@@ -1,0 +1,5 @@
+- Lese bilder fra disk
+- Hente EXIF data
+- Sette bildene i en rekkefølge
+- Vise et bilde
+- Vise neste bilde i rekkefølgen
